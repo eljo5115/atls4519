@@ -1,9 +1,0 @@
-store lists of each category of name
-randomly select a name from each list
-if the name selected equals the other names pick again
-for loop to iterate through random gen for names
-
-
-honorifics = ["Magnificent", "Amazing","Smelly", "Great", "Atrocious", "Horrid", "Dank"]
-firstNames = ["Hank", "Jackson", "Jody", "James", "Tony", "Thomas"]
-lastNames = ["Sparrow", "Robin","Bird", "Tortoise", "Butler"]
